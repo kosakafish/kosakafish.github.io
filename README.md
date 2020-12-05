@@ -1,45 +1,28 @@
-## Welcome to GitHub Pages
+## Kosaka_fish的博客
 
-You can use the [editor on GitHub](https://github.com/kosakafish/kosakafish.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<h1>this is my video</h1>
+<h2>this is one of the lastest videos</h2>
 
 <iframe src="//player.bilibili.com/player.html?aid=843033576&bvid=BV1U54y167af&cid=263095430&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-this is my favourite image
+<h2>this is one of my favourite members</h2>
 
-![yui](pic/yui.jpg?raw=true)
+<img src="pic/yui.jpg?raw=true" alt="yui" style="zoom: 25%;" />
 
-### Markdown
+*小林由依*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="pic/kosaka7.jpg?raw=true" alt="yui" style="zoom: 25%;" />
+
+*小坂菜绪*
+
+### CSDN Link
+
+
 
 ```markdown
-Syntax highlighted code block
+# [my_csdn_blog](https://blog.csdn.net/weixin_43668546?spm=1010.2135.3001.5113)
 
-# Header 1
-## Header 2
-### Header 3
-this is my csdn blog: https://blog.csdn.net/weixin_43668546?spm=1010.2135.3001.5113
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kosakafish/kosakafish.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+如有侵权，请联系删除！
